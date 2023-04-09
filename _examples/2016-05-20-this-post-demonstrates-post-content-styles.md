@@ -10,6 +10,10 @@ meta: "Springfield"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
+![7am in the morning in Monroe](/assets/images/IMG_1192.jpg){: style="width:340px; float:left; margin:15px 15px; border-radius:12px"}
+![7pm in the evening in Kona](/assets/images/IMG_1196.jpg){: style="width:340px; float:right; margin:15px 15px; border-radius:12px"}
+
+
 ## Some great heading (h2)
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.

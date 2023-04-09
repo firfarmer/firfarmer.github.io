@@ -2,7 +2,12 @@
 layout: post
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
+{% raw %}
+<div class="images" style="width:100%">
+<img src="/assets/images/IMG_1192.jpg" alt="Here is an image" style="width:340px; float:left; margin:15px 15px; border-radius:12px">
+<img src="/assets/images/IMG_1196.jpg" alt="Here is another image" style="width:340px; float:right; margin:15px 15px; border-radius:12px">
+</div>
+{% endraw %}
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
