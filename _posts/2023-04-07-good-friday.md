@@ -5,7 +5,7 @@ categories: misc
 ---
 
 ![Mokuaikaua Church](/assets/images/IMG_1211.jpg){: style="width:340px; float:right; margin:15px 15px; border-radius:12px"}
-The day was full with Good Friday events combined with the arrival of the DTS students.  The day started with a service at Mokuaikaua Church, the oldest church in Hawaii.  The service was held outside on an adjacent patio as the church building is in the process of restoration.  Some of the worship songs were Hawaiian and had a beautiful sound to them.
+The day was filled with Good Friday events combined with the arrival of the DTS students.  The day started with a service at Mokuaikaua Church, the oldest church in Hawaii.  The service was held outside on an adjacent patio as the church building is in the process of restoration.  Some of the worship songs were Hawaiian and had a beautiful sound to them.
 
 Later in the evening we caught shuttles up to the UN campus where we had dinner in the large cafeteria.  Everyone eats at the same time so the cafeteria is pretty massive with at least a hundred tables.  And it’s outdoors of course.  I enjoyed dinner with my new friends.
 
