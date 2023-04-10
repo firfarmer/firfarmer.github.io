@@ -1,4 +1,4 @@
-title: My Visit to YWAM in Kona
+title: My Visit to YWAM Kona
 author:
   name:
   email:
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is a blog of my time in Kona
+  This is a blog of my time in Kona helping at YWAM Ships
 
 # Build settings
 
