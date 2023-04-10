@@ -5,7 +5,7 @@ categories: misc
 ---
 
 ![7am in the morning in Monroe](/assets/images/IMG_1192.jpg){: style="width:340px; float:right; margin:15px 15px; border-radius:12px"}
-This morning I woke up to a blanket of snow.  This had been the case for the last few days; snow overnight and melting away during the 50 degree days.  The Cascades have been painted white throughout the winter and don’t seem to know it is now spring.  I normally perform chores while absorbing the landscape in the early morning hours but this morning I have a plane to catch.  I did fill the bird feeders, however.
+This morning I woke up to a blanket of snow.  This had been the case for the last few days; snow overnight and melting away during the 50 degree days.  The Cascades have been painted white throughout the winter and don’t seem to know it is now spring.  I normally perform chores while absorbing the landscape in the early morning hours but this morning I have a plane to catch.
 
 I drive to the boys house in Redmond where Kevin will give me a ride to the airport.  Within a mile of the house the car begins to sputter and can barely keep an idle.  More on that later.  We limp back to the house and use Kevin’s car instead.  Fortunately we are leaving with plenty of time before the flight and as it turns out, the flight is delayed an hour in any case.
 
